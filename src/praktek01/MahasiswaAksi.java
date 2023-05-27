@@ -17,6 +17,7 @@ public class MahasiswaAksi {
         Vieri.Nama = "Vieri Josua Lakoy";
         Vieri.NPM = "2110010606";
         Vieri.IPK = 4.0;
-       
+        
+        Vieri.CetakInfo();
     }
 }
