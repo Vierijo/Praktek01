@@ -10,5 +10,13 @@ package praktek01;
  * @author Vieri Jo
  */
 public class Mahasiswa {
+    String Nama;
+    String NPM;
+    Double IPK;
     
+    void CetakInfo(){
+        System.out.println("Nama :" + Nama);
+        System.out.println("NPM :" + NPM);
+        System.out.println("IPK :" + IPK);
+    }
 }
